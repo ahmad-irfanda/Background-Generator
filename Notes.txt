@@ -1,0 +1,10 @@
+Background Generator.
+implementation of gradient selection on the website.
+
+1. Run "background generator.html" in your browser.
+2. Select the gradient color according to taste.
+3. and see, changes and appearance occur on the website display.
+
+Behance | Dribbble: ahmad-irfanda
+instagram | Twitter: ahmad_irfanda_
+Fb Page: ahmad irfanda hmd
